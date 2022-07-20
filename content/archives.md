@@ -1,5 +1,5 @@
 ---
-title: "Archives \U0001F4E6"
+title: "Archives"
 layout: "archives"
 summary: "archives"
 ---
