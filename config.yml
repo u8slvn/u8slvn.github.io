@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true
     title: "u8slvn"
-    subtitle: "This is subtitle"
+    subtitle: "wip"
     imageUrl: "/u8slvn.jpg"
     imageWidth: 150
     imageHeight: 150
