@@ -1,4 +1,0 @@
----
-title: "License"
-hideMeta: true
----

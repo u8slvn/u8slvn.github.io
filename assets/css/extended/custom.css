@@ -1,3 +1,7 @@
+:root {
+    --radius:4px;
+}
+
 .profile img {
     border: 3px solid var(--primary) !important;
 }
