@@ -64,6 +64,12 @@ params:
       - name: Projects
         url: projects
 
+  socialIcons:
+    - name: github
+      url: "https://github.com/u8slvn"
+    - name: email
+      url: "mailto:u8slvn@gmail.com"
+
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
