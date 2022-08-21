@@ -4,12 +4,44 @@ layout: "projects"
 summary: "projects"
 hideMeta: true
 ShowBreadCrumbs: false
+projects:
+    - title: "Hyperfocus"
+      content: "Minimalist daily task manager via CLI. "
+      link: "https://github.com/u8slvn/hyperfocus"
+      badges:
+        - text: "Python Version"
+          src: "https://img.shields.io/pypi/pyversions/hyperfocus"
+        - text: "Pypi Version"
+          src: "https://img.shields.io/pypi/v/hyperfocus.svg"
+        - text: "Project license"
+          src: "https://img.shields.io/pypi/l/hyperfocus"
+        - text: "Github Stars"
+          src: "https://img.shields.io/github/stars/u8slvn/hyperfocus?style=social"
+    - title: "TransilienWatcher"
+      content: "Transilien (parisian public transport) timetables on LCD display."
+      link: "https://github.com/u8slvn/transilienwatcher"
+      badges:
+        - text: "Python Version"
+          src: "https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue"
+        - text: "Raspberry Pi"
+          src: "https://img.shields.io/badge/Raspberry%20Pi-Zero%20W%20%7C%203%20B%2B-c51A4A?logo=raspberry-pi"
+        - text: "Project license"
+          src: "https://img.shields.io/github/license/u8slvn/transilienwatcher.svg"
+        - text: "Github Stars"
+          src: "https://img.shields.io/github/stars/u8slvn/transilienwatcher?style=social"
+    - title: "Sutoppu"
+      content: "**Sutoppu** (ストップ - Japanese from English *Stop*) is a simple python implementation of Specification pattern."
+      link: "https://github.com/u8slvn/sutoppu"
+      badges:
+        - text: "Python Version"
+          src: "https://img.shields.io/pypi/pyversions/sutoppu"
+        - text: "Pypi Version"
+          src: "https://img.shields.io/pypi/v/sutoppu.svg"
+        - text: "Project license"
+          src: "https://img.shields.io/pypi/l/sutoppu"
+        - text: "Github Stars"
+          src: "https://img.shields.io/github/stars/u8slvn/sutoppu?style=social"
 ---
 
-## Sutoppu
 
-**Sutoppu** (ストップ - Japanese from English *Stop*) is a simple python implementation of Specification pattern.
-
-![Pypi Version](https://img.shields.io/pypi/v/sutoppu.svg)
-![Python Version](https://img.shields.io/pypi/pyversions/sutoppu)
-![Project license](https://img.shields.io/pypi/l/sutoppu)
+You can find on this page some projects I authored. Feel free to create GitHub Issues for any inquiries, any comment or advice is much welcome.

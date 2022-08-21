@@ -1,7 +1,55 @@
 :root {
-    --radius:4px;
+    --radius: 4px;
 }
 
 .profile img {
     border: 3px solid var(--primary) !important;
+}
+
+.project-entry {
+    position: relative;
+    margin-bottom: var(--gap);
+    padding: var(--gap);
+    background-color: var(--code-bg);
+    border-radius: var(--radius);
+    transition: transform .1s;
+    border: 1px solid var(--border);
+}
+
+.project-content {
+    margin: 8px 0;
+    color: var(--secondary);
+    font-size: 14px;
+    line-height: 1.6;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.project-content .badges {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+}
+
+.project-content .badges img {
+    margin-right: 0.5em;
+}
+
+.project-link {
+    display: block;
+    position: absolute;
+    top: var(--gap);
+    right: var(--gap);
+    color: var(--secondary);
+}
+
+.project-link:hover {
+    color: var(--primary);
+}
+
+.project-link svg {
+    width: 24px;
+    height: 24px;
 }

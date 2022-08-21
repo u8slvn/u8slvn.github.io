@@ -1,0 +1,36 @@
+{{- define "main" }}
+
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+
+{{- range .Page.Param "projects" }}
+<article class="project-entry">
+  <header class="entry-header">
+    <h2>{{- .title }}</h2>
+  </header>
+  <section class="project-content">
+    <p>{{- .content | markdownify }}</p>
+    <div class="badges">
+      {{- range .badges }}
+      <img src="{{- .src }}" alt="{{- .text}}">
+      {{- end }}
+    </div>
+  </section>
+  <a class="project-link" href="{{- .link }}" title="See project on GitHub" target="_blank">{{ partial "svg.html" (dict "name" "github") }}</a>
+</article>
+{{- end }}
+
+{{- end }}
