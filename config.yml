@@ -2,7 +2,7 @@ baseURL: "https://u8slvn.github.io"
 title: "Chaos Attic"
 paginate: 5
 theme: PaperMod
-copyright: "© 2022 **[u8slvn](/about)**"
+copyright: "© 2024 **[u8slvn](/about)**"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,7 +17,7 @@ minify:
 params:
   env: production
   title: "Chaos Attic"
-  description: ""
+  description: "Python and software architecture enthusiast. And more."
   keywords: [Blog, Portfolio]
   author: u8slvn
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "u8slvn"
-    subtitle: "wip"
+    subtitle: ""
     imageUrl: "/u8slvn.jpg"
     imageWidth: 150
     imageHeight: 150
