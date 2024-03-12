@@ -19,7 +19,9 @@
 {{- range .Page.Param "projects" }}
 <article class="project-entry">
   <header class="entry-header">
-    <h2>{{- .title }}</h2>
+    <a href="{{- .link }}" title="See project on GitHub" target="_blank">
+      <h2>{{- .title }}</h2>
+    </a>
   </header>
   <section class="project-content">
     <p>{{- .content | markdownify }}</p>

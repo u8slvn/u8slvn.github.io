@@ -6,7 +6,7 @@ hideMeta: true
 ShowBreadCrumbs: false
 projects:
     - title: "Hyperfocus"
-      content: "Minimalist daily task manager via CLI. "
+      content: "Minimalist daily task manager via CLI."
       link: "https://github.com/u8slvn/hyperfocus"
       badges:
         - text: "Python Version"
