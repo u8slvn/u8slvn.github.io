@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Chaos Attic</title>
-    <link>https://u8slvn.github.io/categories/</link>
-    <description>Recent content in Categories on Chaos Attic</description>
+    <title>Pixel-Art on Chaos Attic</title>
+    <link>https://u8slvn.github.io/tags/pixel-art/</link>
+    <description>Recent content in Pixel-Art on Chaos Attic</description>
     <image>
       <url>https://u8slvn.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://u8slvn.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 **[u8slvn](/about)**</copyright><atom:link href="https://u8slvn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 **[u8slvn](/about)**</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://u8slvn.github.io/tags/pixel-art/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

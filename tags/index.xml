@@ -10,23 +10,41 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2022 **[u8slvn](/about)**</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://u8slvn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 **[u8slvn](/about)**</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://u8slvn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>markdown</title>
-      <link>https://u8slvn.github.io/tags/markdown/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Design</title>
+      <link>https://u8slvn.github.io/tags/design/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://u8slvn.github.io/tags/markdown/</guid>
+      <guid>https://u8slvn.github.io/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>https://u8slvn.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Devlog</title>
+      <link>https://u8slvn.github.io/tags/devlog/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://u8slvn.github.io/tags/text/</guid>
+      <guid>https://u8slvn.github.io/tags/devlog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamedev</title>
+      <link>https://u8slvn.github.io/tags/gamedev/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://u8slvn.github.io/tags/gamedev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel-Art</title>
+      <link>https://u8slvn.github.io/tags/pixel-art/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://u8slvn.github.io/tags/pixel-art/</guid>
       <description></description>
     </item>
     
