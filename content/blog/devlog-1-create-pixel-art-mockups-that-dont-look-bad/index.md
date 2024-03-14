@@ -5,7 +5,7 @@ description: "How to create simple pixel art mockups without knowing anything ab
 tags: ["pixel-art", "gamedev", "design", "devlog"]
 ---
 
-I recently started to code a small game with pygame, and I discovered it was a hassle to create mockup assets that don't make everyone who sees your prototype ask, "Is it the final graphics? Because it looks crappy".
+I recently started to code a small [game](https://github.com/u8slvn/entropy) with pygame, and I discovered it was a hassle to create mockup assets that don't make everyone who sees your prototype ask, "Is it the final graphics? Because it looks crappy".
 
 ## Midjourney etc. 
 
