@@ -3,6 +3,7 @@ title: "Devlog #1 - Create pixel art mockups that don't look bad"
 date: "2024-03-12"
 description: "How to create simple pixel art mockups without knowing anything about pixel art."
 tags: ["pixel-art", "gamedev", "design", "devlog"]
+ShowToc: false
 ---
 
 I recently started to code a small [game](https://github.com/u8slvn/entropy) with pygame, and I discovered it was a hassle to create mockup assets that don't make everyone who sees your prototype ask, "Is it the final graphics? Because it looks crappy".
@@ -49,7 +50,7 @@ The result is far from perfect, but finally the image looks like real pixel art.
 
 ## Color palette
 
-Now we have a pretty pixel art mockup, but there was one little thing left to work on. I chose to reduce the color in the picture to 8 for one reason: there is an 8 colors palette I really like, and I decided to use it in my game. Moreover, limiting the number of colors used in a palette will give reminiscent of retro games.
+Now we have a pretty pixel art mockup, but there was one little thing left to work on. I chose to reduce the color in the picture to 8 for one reason: there is an 8 colors palette I really like, and I decided to use it in my game. Moreover, limiting the number of colors used in a palette is reminiscent of retro games.
 
 The first thing we need to do is to reduce the saturation. The method used to switch color palette is called indexing and it gives better result with grey scaled images. This allows rapid and efficient color changes without having to update every pixel in the image individually.
 
