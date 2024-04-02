@@ -21,7 +21,7 @@ languages:
 params:
   env: production
   title: Chaos Attic
-  description: Chaos Attic
+  description: Chaos Attic - u8slvn
   keywords: [Blog, Portfolio]
   author: u8slvn
   DateFormat: "January 2, 2006"
