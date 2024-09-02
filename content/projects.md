@@ -30,7 +30,7 @@ projects:
         - text: "Github Stars"
           src: "https://img.shields.io/github/stars/u8slvn/until-zero?style=social"
     - title: "Doggo"
-      content: "🐕 A basic dog AI using Markov chain and pygame."
+      content: "A basic dog AI using Markov chain and pygame. A virtual pet to keep on your desktop."
       link: "https://github.com/u8slvn/doggo"
       badges:
         - text: "Python Version"
