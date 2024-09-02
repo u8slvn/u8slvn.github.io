@@ -10,7 +10,7 @@ showtoc: false
 
 ## u8slvn
 
-I'm a french developer, python and software architecture enthusiast. 
+I'm a french developer, proud pythonista and software architecture enthusiast.
 
 ## Credits
 
