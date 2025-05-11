@@ -17,6 +17,18 @@ projects:
           src: "https://img.shields.io/pypi/l/hyperfocus"
         - text: "Github Stars"
           src: "https://img.shields.io/github/stars/u8slvn/hyperfocus?style=social"
+    - title: "Sutoppu"
+      content: "**Sutoppu** (ストップ - Japanese from English *Stop*) is a simple python implementation of Specification pattern."
+      link: "https://github.com/u8slvn/sutoppu"
+      badges:
+        - text: "Python Version"
+          src: "https://img.shields.io/pypi/pyversions/sutoppu"
+        - text: "Pypi Version"
+          src: "https://img.shields.io/pypi/v/sutoppu.svg"
+        - text: "Project license"
+          src: "https://img.shields.io/pypi/l/sutoppu"
+        - text: "Github Stars"
+          src: "https://img.shields.io/github/stars/u8slvn/sutoppu?style=social"
     - title: "Until Zero"
       content: "Until Zero - タイマー is a toy program allowing to sequence multiple timers. It can be used as a pomodoro timer or you can setup your own custom timers list."
       link: "https://github.com/u8slvn/until-zero"
@@ -67,18 +79,6 @@ projects:
           src: "https://img.shields.io/github/license/u8slvn/transilienwatcher.svg"
         - text: "Github Stars"
           src: "https://img.shields.io/github/stars/u8slvn/transilienwatcher?style=social"
-    - title: "Sutoppu"
-      content: "**Sutoppu** (ストップ - Japanese from English *Stop*) is a simple python implementation of Specification pattern."
-      link: "https://github.com/u8slvn/sutoppu"
-      badges:
-        - text: "Python Version"
-          src: "https://img.shields.io/pypi/pyversions/sutoppu"
-        - text: "Pypi Version"
-          src: "https://img.shields.io/pypi/v/sutoppu.svg"
-        - text: "Project license"
-          src: "https://img.shields.io/pypi/l/sutoppu"
-        - text: "Github Stars"
-          src: "https://img.shields.io/github/stars/u8slvn/sutoppu?style=social"
 ---
 
 

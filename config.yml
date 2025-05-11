@@ -1,8 +1,9 @@
 baseURL: "https://u8slvn.github.io"
 title: "Chaos Attic"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
-copyright: "© 2024 **[u8slvn](/about)**"
+copyright: "© 2025 **[u8slvn](/about)**"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -25,8 +26,8 @@ params:
   keywords: [Blog, Portfolio]
   author: u8slvn
   DateFormat: "January 2, 2006"
-  defaultTheme: light
-  disableThemeToggle: false
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
